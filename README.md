@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 🌱 I’m currently studing at ITMO University for Magister's degree in SE
+
 📫 How to reach me in TG: @Lsr248
 
 <!--
